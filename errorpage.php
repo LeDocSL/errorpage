@@ -16,7 +16,7 @@
     </style>
     <style>
   .background {
-    background:url(/images/error.png);
+    background:url(https://sittingonclouds.net/images/error.png);
 	background-repeat:no-repeat;
 	background-attachment: fixed;
     background-position: center;
