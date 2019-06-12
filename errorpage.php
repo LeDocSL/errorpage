@@ -3,7 +3,7 @@
   <head>
     <title>Error 502</title>
 	<meta name="author" content="Kobayashi Networks">
-	<link rel="icon" type="image/x-icon" href="https://www.cloudflare.com/favicon.ico"/>
+	<link rel="icon" type="image/x-icon" href="favicon.ico"/>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" media="screen" rel="stylesheet" />
