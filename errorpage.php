@@ -1,4 +1,3 @@
-::ALWAYS_ONLINE_NO_COPY_BOX::
 <!DOCTYPE html>
 <html>
   <head>
@@ -169,9 +168,7 @@ function reload() {
 location.reload(); }
 </script>
   </head>
-  ::ALWAYS_ONLINE_NO_COPY_BOX::
   <body class="plain error-page-wrapper background-color background-image background">
-  ::ALWAYS_ONLINE_NO_COPY_BOX::
     <div class="content-container">
 	<div class="head-line secondary-text-color">
 		502
@@ -187,6 +184,7 @@ location.reload(); }
     <p>
       Go back to the previous page and try again.
       If you think something is broken, report a problem.
+      <p hidden>::ALWAYS_ONLINE_NO_COPY_BOX::</p>
     </p>
 	
 	<p>Errorcode: <?php echo mt_rand(4732974538754938745829758497598758978209752089758475948075802470897298
