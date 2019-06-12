@@ -1,3 +1,4 @@
+::ALWAYS_ONLINE_NO_COPY_BOX::
 <!DOCTYPE html>
 <html>
   <head>
@@ -168,6 +169,7 @@ function reload() {
 location.reload(); }
 </script>
   </head>
+  ::ALWAYS_ONLINE_NO_COPY_BOX::
   <body class="plain error-page-wrapper background-color background-image background">
   ::ALWAYS_ONLINE_NO_COPY_BOX::
     <div class="content-container">
